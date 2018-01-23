@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity {
         String enteredText = editBox.getText().toString(); //stores the current value of EditText into a variable
         pasteBox.setText(enteredText); //pastes the string entered into the EditText, into the TextView.
 
+        
     }
 
 }
